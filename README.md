@@ -2,7 +2,7 @@ Hi there :+1:
 
 **I am a Full Stack Developer**
 
-**[** Frontend  **] **
+**[** Frontend ] 
 
  I have keen eye on the Frontend developing and rich experience on this part
 
@@ -16,7 +16,7 @@ Hi there :+1:
 > - Bootstrap
 > - HTML
 
-[Backend]
+[ Backend ]
 
 > - Node.js
 > - Express.js
@@ -36,14 +36,14 @@ Hi there :+1:
 > - PyQt desktop app
 > - Nuxt and Electron Desktop App
 
-[CMS]
+[ CMS ]
 
 > - Wordpress
 > - Shopify
 > - Webflow
 > - Strapi
 
-[Database]
+[ Database ]
 > - MySQL,
 > - SQLite,
 > - PostgreSQL,
