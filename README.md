@@ -2,8 +2,9 @@ Hi there :+1:
 
 **I am a Full Stack Developer**
 
-[Frontend]
-I have keen eye on the Frontend developing and rich experience on this part
+**[** Frontend  **] **
+
+ I have keen eye on the Frontend developing and rich experience on this part
 
 > - React.js
 > - Vue.js
