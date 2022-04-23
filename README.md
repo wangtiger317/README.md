@@ -1,11 +1,11 @@
 Hi there :)
 
-I am a Full Stack Developer
+**I am a Full Stack Developer**
 
 [Frontend]
 I have keen eye on the Frontend developing and rich experience on this part
 
--React.js,
+> -React.js,
 -Vue.js,
 -Electron.js,
 -Angular.js,
